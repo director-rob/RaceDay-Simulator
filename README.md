@@ -1,1 +1,1 @@
-** Marathon Race Simulator written in Java Processing. **
+**Marathon Race Simulator written in Java Processing.**
